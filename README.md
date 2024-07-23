@@ -14,3 +14,7 @@ This project focuses on uncovering valuable trends and insights from sales data 
 *We'll delve into customer purchase data to understand average order value and identify best-selling products (both by quantity and revenue). This will inform product placement decisions, promotional strategies, and potential menu adjustments.*
 #### Product Performance: 
 *We will analyze how sales vary by specific product and category type. This can help us identify areas for potential product development, upselling strategies, or menu optimization.*
+
+#DASHBOARD PREVIEW
+![image](https://github.com/user-attachments/assets/06cd36b4-121b-46ea-845a-39845c6260f8)
+
